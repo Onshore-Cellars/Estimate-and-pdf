@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chateau Margaux 2015",
+    "sku": "WIN-001",
+    "description": "A prestigious Bordeaux wine from one of the finest estates. Rich, complex, with notes of blackcurrant, cedar, and tobacco.",
+    "price": 850.00
+  },
+  {
+    "name": "Dom Pérignon Vintage 2012",
+    "sku": "CHAMP-001",
+    "description": "Iconic champagne with intense fruit and floral notes. Perfect for celebrations.",
+    "price": 250.00
+  },
+  {
+    "name": "Macallan 18 Year Old",
+    "sku": "WHIS-001",
+    "description": "Highland single malt Scotch whisky aged for 18 years in sherry oak casks. Rich and smooth.",
+    "price": 320.00
+  },
+  {
+    "name": "Penfolds Grange 2016",
+    "sku": "WIN-002",
+    "description": "Australia's most celebrated wine. Full-bodied Shiraz with exceptional aging potential.",
+    "price": 650.00
+  },
+  {
+    "name": "Hennessy XO Cognac",
+    "sku": "COG-001",
+    "description": "Extra Old cognac blended from over 100 eaux-de-vie. Deep, powerful, and elegant.",
+    "price": 200.00
+  }
+]
